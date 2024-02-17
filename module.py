@@ -3,3 +3,6 @@ def hello():
 
 def func2():
     pass
+
+def func():
+    pass
