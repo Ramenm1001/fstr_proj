@@ -6,3 +6,4 @@ def func2():
 
 def func():
     pass
+
